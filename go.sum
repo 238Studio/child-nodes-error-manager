@@ -1,0 +1,4 @@
+github.com/238Studio/child-nodes-assist v1.17.0 h1:KYYRceZ744sidv0MmaG+7XX4nyNCLr0g8PFebpPnO/g=
+github.com/238Studio/child-nodes-assist v1.17.0/go.mod h1:xzED3AH7uTWgFvZ1DeuO//DjgzjUvC4KIDct1dJ8Eiw=
+github.com/google/uuid v1.6.0 h1:NIvaJDMOsjHA8n1jAhLSgzrAzy1Hgr+hNrb57e+94F0=
+github.com/google/uuid v1.6.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
