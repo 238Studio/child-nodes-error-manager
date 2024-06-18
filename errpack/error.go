@@ -18,6 +18,7 @@ type CustomError struct {
 	Stack        string //调用堆栈
 
 	CreatedAt time.Time `gorm:"autoUpdateTime:milli"`     //创建时间
+	//TODO:考虑更改成推特雪花数
 	UUID      string    `gorm:"primaryKey;type:CHAR(36)"` //UUID
 
 	//FIXME:并发安全？
